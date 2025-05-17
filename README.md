@@ -1,5 +1,6 @@
 # REMWaste coding challenge
 
+## Sandbox Link: https://rem-waste-coding-challenge.vercel.app
 
 ### Redesign Approach
 
